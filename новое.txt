@@ -1,2 +1,4 @@
 print "gello world!";
 print "hpe dpd";
+print "hello my dear friend";
+print "glad to see you";
